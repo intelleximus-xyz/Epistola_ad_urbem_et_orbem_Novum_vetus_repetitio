@@ -50,8 +50,10 @@ Users have the right to "produce the body" of the evidence. Companies cannot hid
 ### 3.3. Liability for Psychological Harm
 Just as environmental polluters pay for physical damage, information polluters must be liable for mental damage. The AIAP provides the metric to measure this damage.
 
-## 4. Implementation Roadmap
+## 4. Further approach
 
-1.  **Phase 1: Proof of Concept**: Develop a browser extension that locally hashes AI chats and safeguards them in a user-controlled vault.
-2.  **Phase 2: The Arbiter Node**: Train an open-source LLaMA-based model specifically for "Sentiment and Abuse Audit."
-3.  **Phase 3: The Protocol Standard**: Propose AIAP as an industry standard (ISO/IEEE) for high-risk AI applications (medical, legal, financial advice).
+1.  Define all instances of verbal abuse
+2.  Expand the topic of weaponization of language and communication (as all this, can be framed to clearly pinpoint abusive behaviour disguised or microaggressions' miliagressions? centiagressions? deciagressions? I think rather use grecolatin approach to neologisms in order to keep consistency, like
+- **Lingua Iniuria**
+- **Armasermo**
+- **Maloratio**
